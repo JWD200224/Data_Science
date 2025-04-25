@@ -1,0 +1,7 @@
+- Assigment - 1 is a set of basic python pattern creation and manipulation tasks
+- Assignment - 2 is a set of python string and data structure tasks
+- Project - Electric Vehicles Market Size Analysis:
+  -  Organized EVs by budget, range, and manufacturer, calculating average battery capacities "for" grouped data.
+  -  Visualized the relationship between battery capacity and range, and detected outliers in energy consumption.
+  -  Developed a Python-based tool enabling users to find suitable EVs by inputting budget, range, and battery capacity preferences.
+  -  Applied hypothesis testing to compare the engine power of Tesla and Audi vehicles, generating strategic recommendations.
