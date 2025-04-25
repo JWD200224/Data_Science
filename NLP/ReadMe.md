@@ -1,6 +1,13 @@
-# Natural Languga Processing
+# Natural Language Processing
 ### Assignment 1 (Text Classification)
-- Data Exploration: Analyze the dataset by loading and inspecting key attributes like total rows and unique labels, and prepare it for preprocessing.
-- Text Preprocessing: Standardize text by converting to lowercase, removing punctuation, tokenizing, and filtering out stopwords to clean the data for analysis.
-- Model Training: Split the dataset into training and testing sets, train a logistic regression model, and evaluate its accuracy on unseen data.
-- Model Evaluation: Analyze model performance and interpret results using metrics like the confusion matrix for deeper insights.
+- This assignment focuses on mastering the core concepts of text preprocessing, classification, and model evaluation using a provided dataset.
+### Assignment 2 (Extracting Topics from the Documents)
+- This assignment is designed to introduce the key steps in preparing text data for topic modelling, applying Latent Dirichlet Allocation (LDA), and evaluating the generated topics.
+### Project Part A
+- This project focuses on sentiment analysis, an NLP task to classify text as expressing positive or negative sentiment. Using the IMDb movie review dataset, it aims to predict sentiments based on review text.
+- Text preprocessing techniques, feature extraction methods like TF-IDF, and machine learning classification algorithms are employed to build a robust model.
+- Insights from this analysis can help stakeholders like producers, critics, and platforms tailor strategies effectively.
+### Project Part B
+- This project focuses on automating the classification of news articles into predefined categories such as sports, politics, and technology.
+- By leveraging machine learning, organizations can manage large volumes of news content efficiently, improving accessibility and enhancing user experience.
+- Such classification systems also help platforms like social media and news aggregators recommend tailored content to readers based on their preferences.
